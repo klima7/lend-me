@@ -1,3 +1,8 @@
+# Lend Me
+Flutter mobile app to make borrowoing and lending things easier.
+
+<img src="https://github.com/klima7/lend-me/blob/images/images/screens.png" width="700" />
+
 # google-services.json
 Before starting app it is required to put google-services.json file inside /frontend/libapp/android/app directory. Allowed users may obtain this file from firebase console. It is sensitive file and shouldn't be added to repository.
 
